@@ -1,5 +1,7 @@
 Integrantes :JUAN CAMILO PULIDO VARGAS
 
+todo el proyecto se encuentra en la carpeta "human-resources"
+
 Este Proyecto esta construido con una base de datos postgres con pgAdmin4, por lo tanto se adjunta el archivo “ScriptBaseDeDatos.pdf”, el cual contiene el script de creación de la base de datos y el script de inserción para los usuarios iniciales .
 
 Una vez hecho todo lo anterior, abrimos postman, para utilizar la aplicación, es importante recordar que a la hora de usar los métodos para actualizar información o guardar un nuevo empleado ,se debe enviar un body :
